@@ -1,6 +1,3 @@
-
-
-# Interface to the Salesforce BULK API
 import csv, re, time, logging, requests
 import xml.etree.ElementTree as ET
 import pandas as pd
